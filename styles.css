@@ -30,7 +30,6 @@ body {
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 40px 20px;
-	perspective: 1000px;
 }
 
 .header {
@@ -64,12 +63,10 @@ body {
 		0 6px 10px rgba(0, 0, 0, 0.08);
 	backdrop-filter: blur(10px);
 	border: 1px solid rgba(74, 144, 226, 0.1);
-	transform: rotateX(3deg) scale(0.98);
 	transition: all 0.3s ease;
 }
 
 .section:hover {
-	transform: rotateX(0) scale(1);
 	box-shadow:
 		0 15px 35px rgba(0, 0, 0, 0.15),
 		0 8px 15px rgba(0, 0, 0, 0.1);
